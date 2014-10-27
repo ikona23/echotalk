@@ -124,6 +124,7 @@ DEPENDENCIES
   pg
   rails (= 3.2.19)
   rails_12factor
+  sprockets
   therubyracer
   twitter-bootstrap-rails
   uglifier (>= 1.0.3)

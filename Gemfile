@@ -26,7 +26,7 @@ end
   # gem 'therubyracer', :platforms => :ruby
 
 gem 'rails_12factor', group: :production
-
+gem 'sprockets'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password

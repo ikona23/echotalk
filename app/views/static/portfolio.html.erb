@@ -1,5 +1,7 @@
-<container>
 
+
+<container>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
 <hr/>
   <ul class="filter nav nav-pills">
     <li data-value="all" class="active"><a href="#">All</a></li>
@@ -10,18 +12,16 @@
     <li data-value="logo"><a href="#">Logo Design</a></li>
     <li data-value="wdesign"><a href="#">Web Design</a></li>
   </ul>
-
   <hr>
-
   <ul class="thumbnails">
     <li data-type="code" data-id="id-1" class="span3">
       <a href="http://stark-woodland-9075.herokuapp.com" target="_blank" class="thumbnail" id="dig1"><img src="/assets/dream.png" alt=""></a>
     </li>
     <li data-type="code" data-id="id-2" class="span3">
-      <a href="#" class="thumbnail" id="code1"><img src="/assets/convert.png" alt="convert"></a>
+      <a href="https://github.com/ikona23/convertor" target="_blank" class="thumbnail" id="code1"><img src="/assets/convert.png" alt="convert"></a>
     </li>
-    <li data-type="wdesign" data-id="id-3" class="span3">
-      <a href="#" class="thumbnail" id="dig2"><img src="/assets/stanley.png" alt="stanley"></a>
+    <li data-type="code" data-id="id-3" class="span3">
+      <a href="https://mysterious-waters-8220.herokuapp.com" target="_blank" class="thumbnail" id="dig2"><img src="/assets/kos.png" alt="kos"></a>
     </li>
     <li data-type="digital" data-id="id-4" class="span3">
       <a href="#" class="thumbnail" id="dig3"><img src="/assets/budha.png" alt="budha"></a>
@@ -134,6 +134,9 @@
     <li data-type="paint" data-id="id-40" class="span3">
       <a href="#" class="thumbnail" id="dig37"><img src="/assets/mount.gif" alt="dedo"></a>
     </li>
+    <li data-type="website" data-id="id-40" class="span3">
+      <a href="#" class="thumbnail" id="dig38"><img src="/assets/stanley.png" alt="stanley"></a>
+    </li>
   </ul>
   </br>
   <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
@@ -144,7 +147,7 @@
       function gallery(){
           $('#dig1').click(function() { bootbox.alert('<img src="/assets/dream.png"><h4>Ruby on Rails project</h4>'); });
           $('#code1').click(function() { bootbox.alert('<img src="/assets/convert.png"><h4>Convert to XML file</h4>'); });
-          $('#dig2').click(function() { bootbox.alert('<img src="/assets/stanley.png"><h4>Website for hip-hop artist</h4>'); });
+          $('#dig2').click(function() { bootbox.alert('<img src="/assets/kos.png"><h4>Webshop for overseas client</h4>'); });
           $('#dig3').click(function() { bootbox.alert('<img src="/assets/budha.png"><h4>Print for client</h4>'); });
           $('#dig4').click(function() { bootbox.alert('<img src="/assets/strong.png"><h4>Painbrush on wood</h4>'); });
           $('#dig5').click(function() { bootbox.alert('<img src="/assets/back.png"><h4>Acryl 200x200</h4>'); });
@@ -181,7 +184,7 @@
           $('#dig34').click(function() { bootbox.alert('<img src="/assets/mandal.png"><h4>Logo for customer</h4>'); });
           $('#dig35').click(function() { bootbox.alert('<img src="/assets/curt.png"><h4>Practice in Illustrator</h4>'); });
           $('#dig36').click(function() { bootbox.alert('<img src="/assets/dedo.jpg"><h4>Logo for customer</h4>'); });
-          $('#dig37').click(function() { bootbox.alert('<img src="/assets/mount.gif"><h4>Drawing</h4>'); });
+          $('#dig38').click(function() { bootbox.alert('<img src="/assets/stanley.png"><h4>Drawing</h4>'); });
       }
       var $itemsHolder = $('ul.thumbnails');
       var $itemsClone = $itemsHolder.clone();

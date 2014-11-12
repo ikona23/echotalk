@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html>
+      <head>
+        <div class="picture"></div>
+        <title>About Me - peterkona.com</title>
+        <meta name="description" content="I'm designer and developer this page is all about me but doesn't need to be.
+        Contact me and let's work together ikona23@gmail.com">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <%= stylesheet_link_tag 'application', media:'all', 'data-turbolinks-track' => true %>
+        <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
 
-<head>
-  <title>echotalk</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <%= stylesheet_link_tag 'application', media:'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <link href="sticky-footer.css" rel="stylesheet">
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-  <%= csrf_meta_tags %>
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Lato-Regular:300,400,700' rel='stylesheet' type='text/css'>
 
+        <%= csrf_meta_tags %>
+      </head>
 <body>
-<style>
-
-</style>
 <header class = "fixed">
   <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
     <div class="navbar-inner">
@@ -37,27 +36,24 @@
     </div><!-- /.navbar-inner -->
   </div><!-- /.navbar -->
 </header>
-
-<div class="container">
+    <div class="container">
   <%= yield %>
-</div>
-
+    </div>
 <div class="footer">
   <div class="inside">
     <a href="http://peterkona.com">Peter Kona</a>
   </div>
 </div>
 
-
-
-<script type='text/javascript' src="/assets/application.js"></script>
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
-<script src="/assets/bootstrap.min.js"></script>
-<script type='text/javascript' src="/assets/bootbox.js"></script>
-<script type='text/javascript' src="/assets/jquery.quicksand.js"></script>
-<script type='text/javascript' src="/assets/jquery.js"></script>
-<script type='text/javascript' src="/assets/init.js" ></script>
-
-
+    <script src="//use.typekit.net/tfi4mim.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <script type='text/javascript' src="/assets/application.js"></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+    <script src="/assets/bootstrap.min.js"></script>
+    <script type='text/javascript' src="/assets/bootbox.js"></script>
+    <script type='text/javascript' src="/assets/jquery.quicksand.js"></script>
+    <script type='text/javascript' src="/assets/jquery.js"></script>
+    <script type='text/javascript' src="/assets/init.js" ></script>
 </body>
 </html>
+<!--rip cert, rip jozko, rip janko, rip dodo-->

@@ -1,4 +1,6 @@
 Echotalk::Application.routes.draw do
+  get "test/jsq"
+
   root :to => 'static#home'
   get "static/home"
 

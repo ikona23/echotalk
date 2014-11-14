@@ -67,6 +67,8 @@ github.svg: github-7888305d2fb401dd021aff18f82b769c.svg
 github/index.svg: github-7888305d2fb401dd021aff18f82b769c.svg
 hand.png: hand-85ce9998a954b278568e9057b61c9871.png
 hand/index.png: hand-85ce9998a954b278568e9057b61c9871.png
+hands.ai: hands-78d0a60f4fbd466036ef8a9b990ad3ea.ai
+hands/index.ai: hands-78d0a60f4fbd466036ef8a9b990ad3ea.ai
 hed.svg: hed-ad5f628f685dfd2c88006c815a899af0.svg
 hed/index.svg: hed-ad5f628f685dfd2c88006c815a899af0.svg
 hroch.png: hroch-0bea839ed2d59398960232f05b5edb97.png
@@ -77,12 +79,16 @@ hypo.png: hypo-158e10abeb3a930806208d646bb04ff2.png
 hypo/index.png: hypo-158e10abeb3a930806208d646bb04ff2.png
 k.png: k-df3d2d1c8c9be3cf981a36517c74f879.png
 k/index.png: k-df3d2d1c8c9be3cf981a36517c74f879.png
+kos.png: kos-f6619a6534be6478debdf59b690f2620.png
+kos/index.png: kos-f6619a6534be6478debdf59b690f2620.png
 laf.png: laf-c5f1294e73c27a1c94ba1f38b51d9595.png
 laf/index.png: laf-c5f1294e73c27a1c94ba1f38b51d9595.png
 logo.png: logo-23ee4beeb0bfeb84329bf282e838d560.png
 logo/index.png: logo-23ee4beeb0bfeb84329bf282e838d560.png
 logo.svg: logo-d4267a6eae9855749f2588f17fb00984.svg
 logo/index.svg: logo-d4267a6eae9855749f2588f17fb00984.svg
+logokos.ai: logokos-db9508cc6bfe97105235ec571358d966.ai
+logokos/index.ai: logokos-db9508cc6bfe97105235ec571358d966.ai
 man.jpg: man-24f18e82d83d6ae8d8b8ede71a57c835.jpg
 man/index.jpg: man-24f18e82d83d6ae8d8b8ede71a57c835.jpg
 man.png: man-e43f405fa911b1fff604aa79dd9aa826.png
@@ -139,6 +145,8 @@ swed.jpg: swed-8384a8b76564b3ec2ce464d57bfc72fa.jpg
 swed/index.jpg: swed-8384a8b76564b3ec2ce464d57bfc72fa.jpg
 vizitky.png: vizitky-eb2df023acbfd04e2aca909000813635.png
 vizitky/index.png: vizitky-eb2df023acbfd04e2aca909000813635.png
+vysacka.ai: vysacka-b9a18c10ec3870648d032438f42be972.ai
+vysacka/index.ai: vysacka-b9a18c10ec3870648d032438f42be972.ai
 w.png: w-d0b92e52e3aa2fd56df8f9f4502f19ff.png
 w/index.png: w-d0b92e52e3aa2fd56df8f9f4502f19ff.png
 wait.png: wait-5d2fe1c167ec032e1f8b83b2df4f9374.png
@@ -151,8 +159,8 @@ zero.png: zero-f0d388be4a2b884aaf397a8141e42f09.png
 zero/index.png: zero-f0d388be4a2b884aaf397a8141e42f09.png
 application.js: application-42383e2940f01bc359b5fb7961248978.js
 application/index.js: application-42383e2940f01bc359b5fb7961248978.js
-application.css: application-9babc06b9beb751d9e820f030087963a.css
-application/index.css: application-9babc06b9beb751d9e820f030087963a.css
+application.css: application-2f0b529b835d99a4dc785e858ddd99fc.css
+application/index.css: application-2f0b529b835d99a4dc785e858ddd99fc.css
 jquery.min.map: jquery.min-e146c025d6a36461812bc97143056bd3.map
 jquery/index.min.map: jquery.min-e146c025d6a36461812bc97143056bd3.map
 fontawesome-webfont.eot: fontawesome-webfont-009f6d1f667cc42c25e712ab3429cbc7.eot

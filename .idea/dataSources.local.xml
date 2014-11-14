@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails echotalk: development" uuid="26e07613-143e-4f05-89b0-4e672c2ce58f">
+      <user-name>Core</user-name>
+    </data-source>
+    <data-source name="Rails echotalk: test" uuid="799eab0a-d92a-4eca-9115-048b16e19d2e">
+      <user-name>Core</user-name>
+    </data-source>
+    <data-source name="Rails echotalk: production" uuid="46025550-6934-4757-91e2-bf888918de82">
+      <user-name>Core</user-name>
+    </data-source>
+  </component>
+</project>

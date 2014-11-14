@@ -5,23 +5,19 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:echotalk_development</jdbc-url>
-      <user-name>Core</user-name>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails echotalk: test" uuid="799eab0a-d92a-4eca-9115-048b16e19d2e">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:echotalk_test</jdbc-url>
-      <user-name>Core</user-name>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails echotalk: production" uuid="46025550-6934-4757-91e2-bf888918de82">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:echotalk_production</jdbc-url>
-      <user-name>Core</user-name>
       <libraries />
     </data-source>
   </component>
 </project>
-
